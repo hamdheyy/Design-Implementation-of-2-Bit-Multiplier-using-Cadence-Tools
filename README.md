@@ -1,7 +1,7 @@
 # Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
 Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
-Aim:
+## Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
 
 Tools Required:
@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![Screenshot (47)](https://github.com/user-attachments/assets/03eee783-5e5b-4814-853a-4e96a99bef5c)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -80,7 +80,9 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![Screenshot (48)](https://github.com/user-attachments/assets/5a5c7f9e-1778-4723-bfc2-203a72a3fddb)
+
+
 
  
 
@@ -95,16 +97,19 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![Screenshot (49)](https://github.com/user-attachments/assets/42c50148-fb37-4676-8d91-7ba18d683ead)
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+
+![Screenshot (50)](https://github.com/user-attachments/assets/c551c460-7693-4253-b61f-04ebdf4d868f)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+
+![Screenshot (51)](https://github.com/user-attachments/assets/aa9b574d-f93c-4063-96f9-d51bfe8312f3)
+
 
   
 
-Results:
-The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
+## Results:
+The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations.
